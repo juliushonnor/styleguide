@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Contentious style guide",
+    "description": "",
+    "home_page_url": "https://juliushonnor.github.io/styleguide",
+    "feed_url": "https://juliushonnor.github.io/styleguide/feed.json",
+    "user_comment": "",
+    "icon": "https://juliushonnor.github.io/styleguide/media/website/contentious-logo-new-grey.png",
+    "author": {
+        "name": "Julius"
+    },
+    "items": [
+    ]
+}

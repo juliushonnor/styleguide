@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Contentious style guide</title>
+    <link href="https://juliushonnor.github.io/styleguide/feed.xml" rel="self" />
+    <link href="https://juliushonnor.github.io/styleguide" />
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <author>
+        <name>Julius</name>
+    </author>
+    <id>https://juliushonnor.github.io/styleguide</id>
+
+</feed>
